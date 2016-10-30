@@ -1,4 +1,4 @@
-module Main
+module Chapter1
 
 main : IO ()
 main = putStrLn (cast 'x')
